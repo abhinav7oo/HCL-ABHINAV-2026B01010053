@@ -1,7 +1,0 @@
-Signal,Promises,Times_Fired,Hit_Rate_%,Normal_Day_Hit_Rate_%,Edge_%pts,Avg_Next_Day_Return_%
-RSI below 30 (oversold),Up,3201,52.23,51.33,0.91,0.1
-RSI above 70 (overbought),Down,4769,48.58,48.66,-0.08,0.07
-MA5 above MA20,Up,16115,51.13,51.33,-0.2,0.06
-MACD above 0,Up,16903,51.26,51.33,-0.06,0.06
-Close below lower Bollinger band,Up,1305,52.64,51.33,1.32,0.09
-Close above upper Bollinger band,Down,1945,49.51,48.66,0.85,0.06
